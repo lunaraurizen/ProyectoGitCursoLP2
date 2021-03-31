@@ -2,4 +2,4 @@
 Laboratorio de C#
 Aplicacion de Escritorio
 
-Nombre Apellido
+Juan Gonzalo Lostaunau Lozano
